@@ -1,2 +1,2 @@
 # Financial-Data-Analysis
-Bitoicn and Gold Hedge Inflation risk analysis
+Bitcoin and Gold Hedge Inflation risk analysis
